@@ -23,3 +23,10 @@ file màu xanh: file mới tạo
 
 
 untracked: chưa đc theo dõi trên github
+
+xanh dương: file có thay đổi
+m: 
+a:
+d: delete 
+r: rename
+c: conflict : xung đột
