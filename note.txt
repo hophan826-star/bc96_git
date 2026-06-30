@@ -37,3 +37,6 @@ main/master: còn gọi là branch(nhánh)
 dòng code edit trực tiếp trên github online 
 T1 champions hehehe
 hello cypersoft
+
+tạo nhánh mới : git checkout -b đặt tên 
+check lại nhánh là git branch
