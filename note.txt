@@ -36,3 +36,4 @@ git checkout: đi đến lần commit nào đó, đi đến main/master
 main/master: còn gọi là branch(nhánh)
 dòng code edit trực tiếp trên github online 
 T1 champions hehehe
+hello cypersoft
